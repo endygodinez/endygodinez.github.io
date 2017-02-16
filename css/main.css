@@ -2,11 +2,12 @@ body {
 	margin: 0;
 	padding: 0;
 	background: #DDA0DD;
-	text-align: center;
+	text-align: left;
 	font-family: 'Arvo', serif;
 	font-size: 14px;
 	color: #000000;
 }
+
 
 h1, h2, h3 {
 	margin: 0px;
@@ -40,6 +41,7 @@ ul, ol {
 .nav {
 margin:50px;
 background:#E6E6FA;
+text-align: center;
 }
 .nav ul {
   display: inline;
